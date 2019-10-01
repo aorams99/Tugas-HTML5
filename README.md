@@ -16,5 +16,3 @@ Cara Commit di GitHub
 - Buat Repository Baru
 - Buat file baru atau upload file yang sudah disiapkan
 - upload / commit
-
-Link Repository GitHub : 
